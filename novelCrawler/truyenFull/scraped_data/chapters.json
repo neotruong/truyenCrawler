@@ -1,0 +1,1217 @@
+[
+  {
+    "id": 1,
+    "name": "Chương1: Sống lại",
+    "sort_order": 1.0,
+    "novel_id": 1,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "name": "Chương2: Cường thế",
+    "sort_order": 2.0,
+    "novel_id": 1,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "name": "Chương3: Ngươi có bệnh, ta có thể trị",
+    "sort_order": 3.0,
+    "novel_id": 1,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "name": "Chương4: Mệnh lệnh thứ nhất",
+    "sort_order": 4.0,
+    "novel_id": 1,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "name": "Chương5: Đánh đau lão cẩu",
+    "sort_order": 5.0,
+    "novel_id": 1,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "name": "Chương1: Nhân phẩm có vấn đề (1)",
+    "sort_order": 1.0,
+    "novel_id": 2,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "name": "Chương2: Nhân phẩm có vấn đề (2)",
+    "sort_order": 2.0,
+    "novel_id": 2,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "name": "Chương3: Băng hỏa lưỡng trọng thiên",
+    "sort_order": 3.0,
+    "novel_id": 2,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "name": "Chương4: Lục gia",
+    "sort_order": 4.0,
+    "novel_id": 2,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "name": "Chương5: Thiếu gia mệnh khổ",
+    "sort_order": 5.0,
+    "novel_id": 2,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "name": "Chương1: Thiên tài rơi rụng",
+    "sort_order": 1.0,
+    "novel_id": 3,
+    "created_at": "2025-03-30 14:25:30",
+    "updated_at": "2025-03-30 14:25:30",
+    "deleted_at": null
+  },
+  {
+    "id": 12,
+    "name": "Chương2: Đấu khí đại lục",
+    "sort_order": 2.0,
+    "novel_id": 3,
+    "created_at": "2025-03-30 14:25:30",
+    "updated_at": "2025-03-30 14:25:30",
+    "deleted_at": null
+  },
+  {
+    "id": 13,
+    "name": "Chương3: Khách nhân",
+    "sort_order": 3.0,
+    "novel_id": 3,
+    "created_at": "2025-03-30 14:25:30",
+    "updated_at": "2025-03-30 14:25:30",
+    "deleted_at": null
+  },
+  {
+    "id": 14,
+    "name": "Chương4: Vân Lam tông",
+    "sort_order": 4.0,
+    "novel_id": 3,
+    "created_at": "2025-03-30 14:25:30",
+    "updated_at": "2025-03-30 14:25:30",
+    "deleted_at": null
+  },
+  {
+    "id": 15,
+    "name": "Chương5: Tụ khí tán",
+    "sort_order": 5.0,
+    "novel_id": 3,
+    "created_at": "2025-03-30 14:25:30",
+    "updated_at": "2025-03-30 14:25:30",
+    "deleted_at": null
+  },
+  {
+    "id": 16,
+    "name": "Chương1: Đại Hoang",
+    "sort_order": 1.0,
+    "novel_id": 4,
+    "created_at": "2025-03-30 14:25:31",
+    "updated_at": "2025-03-30 14:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 17,
+    "name": "Chương2: Triều khí bừng bừng",
+    "sort_order": 2.0,
+    "novel_id": 4,
+    "created_at": "2025-03-30 14:25:31",
+    "updated_at": "2025-03-30 14:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 18,
+    "name": "Chương3: Cốt văn",
+    "sort_order": 3.0,
+    "novel_id": 4,
+    "created_at": "2025-03-30 14:25:31",
+    "updated_at": "2025-03-30 14:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 19,
+    "name": "Chương4: Tế Linh",
+    "sort_order": 4.0,
+    "novel_id": 4,
+    "created_at": "2025-03-30 14:25:31",
+    "updated_at": "2025-03-30 14:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 20,
+    "name": "Chương5: Tắm thuốc",
+    "sort_order": 5.0,
+    "novel_id": 4,
+    "created_at": "2025-03-30 14:25:31",
+    "updated_at": "2025-03-30 14:25:31",
+    "deleted_at": null
+  },
+  {
+    "id": 21,
+    "name": "Chương1: Tôi không hối hận",
+    "sort_order": 1.0,
+    "novel_id": 5,
+    "created_at": "2025-03-30 14:25:32",
+    "updated_at": "2025-03-30 14:25:32",
+    "deleted_at": null
+  },
+  {
+    "id": 22,
+    "name": "Chương2: Mang thai rồi",
+    "sort_order": 2.0,
+    "novel_id": 5,
+    "created_at": "2025-03-30 14:25:32",
+    "updated_at": "2025-03-30 14:25:32",
+    "deleted_at": null
+  },
+  {
+    "id": 23,
+    "name": "Chương3: Tôi phải lấy anh",
+    "sort_order": 3.0,
+    "novel_id": 5,
+    "created_at": "2025-03-30 14:25:32",
+    "updated_at": "2025-03-30 14:25:32",
+    "deleted_at": null
+  },
+  {
+    "id": 24,
+    "name": "Chương4: Kết hôn không có lễ cưới và nghi thức",
+    "sort_order": 4.0,
+    "novel_id": 5,
+    "created_at": "2025-03-30 14:25:32",
+    "updated_at": "2025-03-30 14:25:32",
+    "deleted_at": null
+  },
+  {
+    "id": 25,
+    "name": "Chương5: Động phòng hoa chúc",
+    "sort_order": 5.0,
+    "novel_id": 5,
+    "created_at": "2025-03-30 14:25:32",
+    "updated_at": "2025-03-30 14:25:32",
+    "deleted_at": null
+  },
+  {
+    "id": 26,
+    "name": "Chương1: Sơn biên tiểu thôn",
+    "sort_order": 1.0,
+    "novel_id": 6,
+    "created_at": "2025-03-30 14:25:34",
+    "updated_at": "2025-03-30 14:25:34",
+    "deleted_at": null
+  },
+  {
+    "id": 27,
+    "name": "Chương2: Thanh ngưu trấn",
+    "sort_order": 2.0,
+    "novel_id": 6,
+    "created_at": "2025-03-30 14:25:34",
+    "updated_at": "2025-03-30 14:25:34",
+    "deleted_at": null
+  },
+  {
+    "id": 28,
+    "name": "Chương3: Thất huyền môn",
+    "sort_order": 3.0,
+    "novel_id": 6,
+    "created_at": "2025-03-30 14:25:34",
+    "updated_at": "2025-03-30 14:25:34",
+    "deleted_at": null
+  },
+  {
+    "id": 29,
+    "name": "Chương4: Luyện cốt nhai",
+    "sort_order": 4.0,
+    "novel_id": 6,
+    "created_at": "2025-03-30 14:25:34",
+    "updated_at": "2025-03-30 14:25:34",
+    "deleted_at": null
+  },
+  {
+    "id": 30,
+    "name": "Chương5: Mặc đại phu",
+    "sort_order": 5.0,
+    "novel_id": 6,
+    "created_at": "2025-03-30 14:25:34",
+    "updated_at": "2025-03-30 14:25:34",
+    "deleted_at": null
+  },
+  {
+    "id": 31,
+    "name": "Chương1: Còn muốn trốn sao?",
+    "sort_order": 1.0,
+    "novel_id": 7,
+    "created_at": "2025-03-30 14:25:35",
+    "updated_at": "2025-03-30 14:25:35",
+    "deleted_at": null
+  },
+  {
+    "id": 32,
+    "name": "Chương2: Nuốt được đến miệng",
+    "sort_order": 2.0,
+    "novel_id": 7,
+    "created_at": "2025-03-30 14:25:35",
+    "updated_at": "2025-03-30 14:25:35",
+    "deleted_at": null
+  },
+  {
+    "id": 33,
+    "name": "Chương3: Vị hôn phu trước",
+    "sort_order": 3.0,
+    "novel_id": 7,
+    "created_at": "2025-03-30 14:25:35",
+    "updated_at": "2025-03-30 14:25:35",
+    "deleted_at": null
+  },
+  {
+    "id": 34,
+    "name": "Chương4: Chết dưới hoa mẫu đơn",
+    "sort_order": 4.0,
+    "novel_id": 7,
+    "created_at": "2025-03-30 14:25:35",
+    "updated_at": "2025-03-30 14:25:35",
+    "deleted_at": null
+  },
+  {
+    "id": 35,
+    "name": "Chương5: Khẩu vị nặng nha",
+    "sort_order": 5.0,
+    "novel_id": 7,
+    "created_at": "2025-03-30 14:25:35",
+    "updated_at": "2025-03-30 14:25:35",
+    "deleted_at": null
+  },
+  {
+    "id": 36,
+    "name": "Chương1: Ly hương",
+    "sort_order": 1.0,
+    "novel_id": 8,
+    "created_at": "2025-03-30 14:25:36",
+    "updated_at": "2025-03-30 14:25:36",
+    "deleted_at": null
+  },
+  {
+    "id": 37,
+    "name": "Chương2: Tiên Nhân",
+    "sort_order": 2.0,
+    "novel_id": 8,
+    "created_at": "2025-03-30 14:25:36",
+    "updated_at": "2025-03-30 14:25:36",
+    "deleted_at": null
+  },
+  {
+    "id": 38,
+    "name": "Chương3: Trắc thí",
+    "sort_order": 3.0,
+    "novel_id": 8,
+    "created_at": "2025-03-30 14:25:36",
+    "updated_at": "2025-03-30 14:25:36",
+    "deleted_at": null
+  },
+  {
+    "id": 39,
+    "name": "Chương4: Vô tình",
+    "sort_order": 4.0,
+    "novel_id": 8,
+    "created_at": "2025-03-30 14:25:36",
+    "updated_at": "2025-03-30 14:25:36",
+    "deleted_at": null
+  },
+  {
+    "id": 40,
+    "name": "Chương5: Đường về",
+    "sort_order": 5.0,
+    "novel_id": 8,
+    "created_at": "2025-03-30 14:25:36",
+    "updated_at": "2025-03-30 14:25:36",
+    "deleted_at": null
+  },
+  {
+    "id": 41,
+    "name": "Chương1: Tam Quỷ Gia (1)",
+    "sort_order": 1.0,
+    "novel_id": 9,
+    "created_at": "2025-03-30 14:25:38",
+    "updated_at": "2025-03-30 14:25:38",
+    "deleted_at": null
+  },
+  {
+    "id": 42,
+    "name": "Chương2: Tam Quỷ Gia (2)",
+    "sort_order": 2.0,
+    "novel_id": 9,
+    "created_at": "2025-03-30 14:25:38",
+    "updated_at": "2025-03-30 14:25:38",
+    "deleted_at": null
+  },
+  {
+    "id": 43,
+    "name": "Chương3: Tẩy Nhan Cổ Phái (1)",
+    "sort_order": 3.0,
+    "novel_id": 9,
+    "created_at": "2025-03-30 14:25:38",
+    "updated_at": "2025-03-30 14:25:38",
+    "deleted_at": null
+  },
+  {
+    "id": 44,
+    "name": "Chương4: Tẩy Nhan Cổ Phái (2)",
+    "sort_order": 4.0,
+    "novel_id": 9,
+    "created_at": "2025-03-30 14:25:38",
+    "updated_at": "2025-03-30 14:25:38",
+    "deleted_at": null
+  },
+  {
+    "id": 45,
+    "name": "Chương5: Vị hôn thê (1)",
+    "sort_order": 5.0,
+    "novel_id": 9,
+    "created_at": "2025-03-30 14:25:38",
+    "updated_at": "2025-03-30 14:25:38",
+    "deleted_at": null
+  },
+  {
+    "id": 46,
+    "name": "Chương1: Hắn tên là Bạch Tiểu Thuần",
+    "sort_order": 1.0,
+    "novel_id": 10,
+    "created_at": "2025-03-30 14:25:39",
+    "updated_at": "2025-03-30 14:25:39",
+    "deleted_at": null
+  },
+  {
+    "id": 47,
+    "name": "Chương2: Hỏa Táo Phòng",
+    "sort_order": 2.0,
+    "novel_id": 10,
+    "created_at": "2025-03-30 14:25:39",
+    "updated_at": "2025-03-30 14:25:39",
+    "deleted_at": null
+  },
+  {
+    "id": 48,
+    "name": "Chương3: Sáu câu chân ngôn",
+    "sort_order": 3.0,
+    "novel_id": 10,
+    "created_at": "2025-03-30 14:25:39",
+    "updated_at": "2025-03-30 14:25:39",
+    "deleted_at": null
+  },
+  {
+    "id": 49,
+    "name": "Chương4: Luyện Linh",
+    "sort_order": 4.0,
+    "novel_id": 10,
+    "created_at": "2025-03-30 14:25:39",
+    "updated_at": "2025-03-30 14:25:39",
+    "deleted_at": null
+  },
+  {
+    "id": 50,
+    "name": "Chương5: Vạn nhất ném đi mạng nhỏ thì thế nào",
+    "sort_order": 5.0,
+    "novel_id": 10,
+    "created_at": "2025-03-30 14:25:39",
+    "updated_at": "2025-03-30 14:25:39",
+    "deleted_at": null
+  },
+  {
+    "id": 51,
+    "name": "Chương1: Thức tỉnh (1)",
+    "sort_order": 1.0,
+    "novel_id": 11,
+    "created_at": "2025-03-30 14:25:41",
+    "updated_at": "2025-03-30 14:25:41",
+    "deleted_at": null
+  },
+  {
+    "id": 52,
+    "name": "Chương2: Thức tỉnh (2)",
+    "sort_order": 2.0,
+    "novel_id": 11,
+    "created_at": "2025-03-30 14:25:41",
+    "updated_at": "2025-03-30 14:25:41",
+    "deleted_at": null
+  },
+  {
+    "id": 53,
+    "name": "Chương3: Trên lớp học",
+    "sort_order": 3.0,
+    "novel_id": 11,
+    "created_at": "2025-03-30 14:25:41",
+    "updated_at": "2025-03-30 14:25:41",
+    "deleted_at": null
+  },
+  {
+    "id": 54,
+    "name": "Chương4: Công hội thuật luyện sư (1)",
+    "sort_order": 4.0,
+    "novel_id": 11,
+    "created_at": "2025-03-30 14:25:41",
+    "updated_at": "2025-03-30 14:25:41",
+    "deleted_at": null
+  },
+  {
+    "id": 55,
+    "name": "Chương5: Công hội thuật luyện sư (2)",
+    "sort_order": 5.0,
+    "novel_id": 11,
+    "created_at": "2025-03-30 14:25:41",
+    "updated_at": "2025-03-30 14:25:41",
+    "deleted_at": null
+  },
+  {
+    "id": 56,
+    "name": "Chương1: Đồ Bỏ",
+    "sort_order": 1.0,
+    "novel_id": 12,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 57,
+    "name": "Chương2: Người phụ nữ của tôi, không được phép coi thường!",
+    "sort_order": 2.0,
+    "novel_id": 12,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 58,
+    "name": "Chương3: Chủ tịch?",
+    "sort_order": 3.0,
+    "novel_id": 12,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 59,
+    "name": "Chương4: Đối xử bình đẳng",
+    "sort_order": 4.0,
+    "novel_id": 12,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 60,
+    "name": "Chương5: Âm mưu",
+    "sort_order": 5.0,
+    "novel_id": 12,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 61,
+    "name": "Chương1: Cô gái xinh đẹp ở sau núi",
+    "sort_order": 1.0,
+    "novel_id": 13,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  },
+  {
+    "id": 62,
+    "name": "Chương2: Qủy dạ hành",
+    "sort_order": 2.0,
+    "novel_id": 13,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  },
+  {
+    "id": 63,
+    "name": "Chương3: Thi độc và bột nếp",
+    "sort_order": 3.0,
+    "novel_id": 13,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  },
+  {
+    "id": 64,
+    "name": "Chương4: Chín mạng của mèo",
+    "sort_order": 4.0,
+    "novel_id": 13,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  },
+  {
+    "id": 65,
+    "name": "Chương5: Xác chết ngủ trong khoang bụng",
+    "sort_order": 5.0,
+    "novel_id": 13,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  },
+  {
+    "id": 66,
+    "name": "Chương1: Địa Ngục linh chi (1)",
+    "sort_order": 1.0,
+    "novel_id": 14,
+    "created_at": "2025-03-30 14:25:45",
+    "updated_at": "2025-03-30 14:25:45",
+    "deleted_at": null
+  },
+  {
+    "id": 67,
+    "name": "Chương2: Địa Ngục linh chi (2)",
+    "sort_order": 2.0,
+    "novel_id": 14,
+    "created_at": "2025-03-30 14:25:45",
+    "updated_at": "2025-03-30 14:25:45",
+    "deleted_at": null
+  },
+  {
+    "id": 68,
+    "name": "Chương3: Âm Dương Thần Mạch",
+    "sort_order": 3.0,
+    "novel_id": 14,
+    "created_at": "2025-03-30 14:25:45",
+    "updated_at": "2025-03-30 14:25:45",
+    "deleted_at": null
+  },
+  {
+    "id": 69,
+    "name": "Chương4: Tiết Tiên Tiên (1)",
+    "sort_order": 4.0,
+    "novel_id": 14,
+    "created_at": "2025-03-30 14:25:45",
+    "updated_at": "2025-03-30 14:25:45",
+    "deleted_at": null
+  },
+  {
+    "id": 70,
+    "name": "Chương5: Tiết Tiên Tiên (2)",
+    "sort_order": 5.0,
+    "novel_id": 14,
+    "created_at": "2025-03-30 14:25:45",
+    "updated_at": "2025-03-30 14:25:45",
+    "deleted_at": null
+  },
+  {
+    "id": 71,
+    "name": "Chương1: Lâm Động",
+    "sort_order": 1.0,
+    "novel_id": 15,
+    "created_at": "2025-03-30 14:25:46",
+    "updated_at": "2025-03-30 14:25:46",
+    "deleted_at": null
+  },
+  {
+    "id": 72,
+    "name": "Chương2: Thông Bối Quyền",
+    "sort_order": 2.0,
+    "novel_id": 15,
+    "created_at": "2025-03-30 14:25:46",
+    "updated_at": "2025-03-30 14:25:46",
+    "deleted_at": null
+  },
+  {
+    "id": 73,
+    "name": "Chương3: Thạch trì cổ quái",
+    "sort_order": 3.0,
+    "novel_id": 15,
+    "created_at": "2025-03-30 14:25:46",
+    "updated_at": "2025-03-30 14:25:46",
+    "deleted_at": null
+  },
+  {
+    "id": 74,
+    "name": "Chương4: Thạch Trì bí mật",
+    "sort_order": 4.0,
+    "novel_id": 15,
+    "created_at": "2025-03-30 14:25:46",
+    "updated_at": "2025-03-30 14:25:46",
+    "deleted_at": null
+  },
+  {
+    "id": 75,
+    "name": "Chương5: Đây là vật gì?",
+    "sort_order": 5.0,
+    "novel_id": 15,
+    "created_at": "2025-03-30 14:25:46",
+    "updated_at": "2025-03-30 14:25:46",
+    "deleted_at": null
+  },
+  {
+    "id": 76,
+    "name": "Chương1: Thiên Đế chi tử chuyển thế trùng sinh 1",
+    "sort_order": 1.0,
+    "novel_id": 16,
+    "created_at": "2025-03-30 14:25:48",
+    "updated_at": "2025-03-30 14:25:48",
+    "deleted_at": null
+  },
+  {
+    "id": 77,
+    "name": "Chương2: Thiên Đế chi tử chuyển thế trùng sinh 2",
+    "sort_order": 2.0,
+    "novel_id": 16,
+    "created_at": "2025-03-30 14:25:48",
+    "updated_at": "2025-03-30 14:25:48",
+    "deleted_at": null
+  },
+  {
+    "id": 78,
+    "name": "Chương3: Phụ thân bao che khuyết điểm bạn bè nghĩa khí 1",
+    "sort_order": 3.0,
+    "novel_id": 16,
+    "created_at": "2025-03-30 14:25:48",
+    "updated_at": "2025-03-30 14:25:48",
+    "deleted_at": null
+  },
+  {
+    "id": 79,
+    "name": "Chương4: Phụ thân bao che khuyết điểm bạn bè nghĩa khí 2",
+    "sort_order": 4.0,
+    "novel_id": 16,
+    "created_at": "2025-03-30 14:25:48",
+    "updated_at": "2025-03-30 14:25:48",
+    "deleted_at": null
+  },
+  {
+    "id": 80,
+    "name": "Chương5: Đưa mặt đến cửa hung hăng mà đánh",
+    "sort_order": 5.0,
+    "novel_id": 16,
+    "created_at": "2025-03-30 14:25:48",
+    "updated_at": "2025-03-30 14:25:48",
+    "deleted_at": null
+  },
+  {
+    "id": 81,
+    "name": "Chương1: Quan tài lớn bằng đồng thau ở trong Tinh Không",
+    "sort_order": 1.0,
+    "novel_id": 17,
+    "created_at": "2025-03-30 14:25:49",
+    "updated_at": "2025-03-30 14:25:49",
+    "deleted_at": null
+  },
+  {
+    "id": 82,
+    "name": "Chương2: Tố Vấn",
+    "sort_order": 2.0,
+    "novel_id": 17,
+    "created_at": "2025-03-30 14:25:49",
+    "updated_at": "2025-03-30 14:25:49",
+    "deleted_at": null
+  },
+  {
+    "id": 83,
+    "name": "Chương3: Kim Tích",
+    "sort_order": 3.0,
+    "novel_id": 17,
+    "created_at": "2025-03-30 14:25:49",
+    "updated_at": "2025-03-30 14:25:49",
+    "deleted_at": null
+  },
+  {
+    "id": 84,
+    "name": "Chương4: Hoang Cổ đồng khắc (1)",
+    "sort_order": 4.0,
+    "novel_id": 17,
+    "created_at": "2025-03-30 14:25:49",
+    "updated_at": "2025-03-30 14:25:49",
+    "deleted_at": null
+  },
+  {
+    "id": 85,
+    "name": "Chương5: Lý Tiểu Mạn",
+    "sort_order": 5.0,
+    "novel_id": 17,
+    "created_at": "2025-03-30 14:25:49",
+    "updated_at": "2025-03-30 14:25:49",
+    "deleted_at": null
+  },
+  {
+    "id": 86,
+    "name": "Chương1: Ăn trộm",
+    "sort_order": 1.0,
+    "novel_id": 18,
+    "created_at": "2025-03-30 14:25:51",
+    "updated_at": "2025-03-30 14:25:51",
+    "deleted_at": null
+  },
+  {
+    "id": 87,
+    "name": "Chương2: Lần đầu gặp gỡ",
+    "sort_order": 2.0,
+    "novel_id": 18,
+    "created_at": "2025-03-30 14:25:51",
+    "updated_at": "2025-03-30 14:25:51",
+    "deleted_at": null
+  },
+  {
+    "id": 88,
+    "name": "Chương3: Đua xe",
+    "sort_order": 3.0,
+    "novel_id": 18,
+    "created_at": "2025-03-30 14:25:51",
+    "updated_at": "2025-03-30 14:25:51",
+    "deleted_at": null
+  },
+  {
+    "id": 89,
+    "name": "Chương4: Khoảng cách",
+    "sort_order": 4.0,
+    "novel_id": 18,
+    "created_at": "2025-03-30 14:25:51",
+    "updated_at": "2025-03-30 14:25:51",
+    "deleted_at": null
+  },
+  {
+    "id": 90,
+    "name": "Chương5: Gặp lại",
+    "sort_order": 5.0,
+    "novel_id": 18,
+    "created_at": "2025-03-30 14:25:51",
+    "updated_at": "2025-03-30 14:25:51",
+    "deleted_at": null
+  },
+  {
+    "id": 91,
+    "name": "Chương1: Mẫu tử sát thi",
+    "sort_order": 1.0,
+    "novel_id": 19,
+    "created_at": "2025-03-30 14:25:52",
+    "updated_at": "2025-03-30 14:25:52",
+    "deleted_at": null
+  },
+  {
+    "id": 92,
+    "name": "Chương2: Khai quan",
+    "sort_order": 2.0,
+    "novel_id": 19,
+    "created_at": "2025-03-30 14:25:52",
+    "updated_at": "2025-03-30 14:25:52",
+    "deleted_at": null
+  },
+  {
+    "id": 93,
+    "name": "Chương3: Hỏa thiêu sát thi",
+    "sort_order": 3.0,
+    "novel_id": 19,
+    "created_at": "2025-03-30 14:25:52",
+    "updated_at": "2025-03-30 14:25:52",
+    "deleted_at": null
+  },
+  {
+    "id": 94,
+    "name": "Chương4: Miêu cương cổ sư",
+    "sort_order": 4.0,
+    "novel_id": 19,
+    "created_at": "2025-03-30 14:25:52",
+    "updated_at": "2025-03-30 14:25:52",
+    "deleted_at": null
+  },
+  {
+    "id": 95,
+    "name": "Chương5: Quan môn đệ tử",
+    "sort_order": 5.0,
+    "novel_id": 19,
+    "created_at": "2025-03-30 14:25:52",
+    "updated_at": "2025-03-30 14:25:52",
+    "deleted_at": null
+  },
+  {
+    "id": 96,
+    "name": "Chương1: Tiêu Phàm Trọng Sinh",
+    "sort_order": 1.0,
+    "novel_id": 20,
+    "created_at": "2025-03-30 14:25:53",
+    "updated_at": "2025-03-30 14:25:53",
+    "deleted_at": null
+  },
+  {
+    "id": 97,
+    "name": "Chương2: Liên Tiếp Đột Phá",
+    "sort_order": 2.0,
+    "novel_id": 20,
+    "created_at": "2025-03-30 14:25:53",
+    "updated_at": "2025-03-30 14:25:53",
+    "deleted_at": null
+  },
+  {
+    "id": 98,
+    "name": "Chương3: Vô Tận Chiến Điển",
+    "sort_order": 3.0,
+    "novel_id": 20,
+    "created_at": "2025-03-30 14:25:53",
+    "updated_at": "2025-03-30 14:25:53",
+    "deleted_at": null
+  },
+  {
+    "id": 99,
+    "name": "Chương4: Đoạt Thức Ăn Trong Miệng Cọp",
+    "sort_order": 4.0,
+    "novel_id": 20,
+    "created_at": "2025-03-30 14:25:53",
+    "updated_at": "2025-03-30 14:25:53",
+    "deleted_at": null
+  },
+  {
+    "id": 100,
+    "name": "Chương5: Họa Thủy Đông Dẫn",
+    "sort_order": 5.0,
+    "novel_id": 20,
+    "created_at": "2025-03-30 14:25:53",
+    "updated_at": "2025-03-30 14:25:53",
+    "deleted_at": null
+  },
+  {
+    "id": 101,
+    "name": "Quyển1 -Chương1: Giấc mơ thoáng qua",
+    "sort_order": 1.0,
+    "novel_id": 21,
+    "created_at": "2025-03-30 14:25:55",
+    "updated_at": "2025-03-30 14:25:55",
+    "deleted_at": null
+  },
+  {
+    "id": 102,
+    "name": "Quyển1 -Chương2: Tập đoàn Tinh Thạch \"lên sàn\"",
+    "sort_order": 2.0,
+    "novel_id": 21,
+    "created_at": "2025-03-30 14:25:55",
+    "updated_at": "2025-03-30 14:25:55",
+    "deleted_at": null
+  },
+  {
+    "id": 103,
+    "name": "Quyển1 -Chương3: Cứ gọi tôi là bác sỹ Tố",
+    "sort_order": 3.0,
+    "novel_id": 21,
+    "created_at": "2025-03-30 14:25:55",
+    "updated_at": "2025-03-30 14:25:55",
+    "deleted_at": null
+  },
+  {
+    "id": 104,
+    "name": "Quyển1 -Chương4: Người đàn ông dưới tán ô",
+    "sort_order": 4.0,
+    "novel_id": 21,
+    "created_at": "2025-03-30 14:25:55",
+    "updated_at": "2025-03-30 14:25:55",
+    "deleted_at": null
+  },
+  {
+    "id": 105,
+    "name": "Quyển1 -Chương5: Cuộc gặp mặt bất ngờ",
+    "sort_order": 5.0,
+    "novel_id": 21,
+    "created_at": "2025-03-30 14:25:55",
+    "updated_at": "2025-03-30 14:25:55",
+    "deleted_at": null
+  },
+  {
+    "id": 106,
+    "name": "Chương1: Mãng tước nuốt rồng",
+    "sort_order": 1.0,
+    "novel_id": 22,
+    "created_at": "2025-03-30 14:25:57",
+    "updated_at": "2025-03-30 14:25:57",
+    "deleted_at": null
+  },
+  {
+    "id": 107,
+    "name": "Chương2: Nguyên văn",
+    "sort_order": 2.0,
+    "novel_id": 22,
+    "created_at": "2025-03-30 14:25:57",
+    "updated_at": "2025-03-30 14:25:57",
+    "deleted_at": null
+  },
+  {
+    "id": 108,
+    "name": "Chương3: Tô ấu vi",
+    "sort_order": 3.0,
+    "novel_id": 22,
+    "created_at": "2025-03-30 14:25:57",
+    "updated_at": "2025-03-30 14:25:57",
+    "deleted_at": null
+  },
+  {
+    "id": 109,
+    "name": "Chương4: Sức mạnh của nguyên văn",
+    "sort_order": 4.0,
+    "novel_id": 22,
+    "created_at": "2025-03-30 14:25:57",
+    "updated_at": "2025-03-30 14:25:57",
+    "deleted_at": null
+  },
+  {
+    "id": 110,
+    "name": "Chương5: Tề nhạc, liễu khê",
+    "sort_order": 5.0,
+    "novel_id": 22,
+    "created_at": "2025-03-30 14:25:57",
+    "updated_at": "2025-03-30 14:25:57",
+    "deleted_at": null
+  },
+  {
+    "id": 111,
+    "name": "Chương1: Trọng sinh",
+    "sort_order": 1.0,
+    "novel_id": 23,
+    "created_at": "2025-03-30 14:25:58",
+    "updated_at": "2025-03-30 14:25:58",
+    "deleted_at": null
+  },
+  {
+    "id": 112,
+    "name": "Chương2: Mẫu thân",
+    "sort_order": 2.0,
+    "novel_id": 23,
+    "created_at": "2025-03-30 14:25:58",
+    "updated_at": "2025-03-30 14:25:58",
+    "deleted_at": null
+  },
+  {
+    "id": 113,
+    "name": "Chương3: Triệu phu nhân",
+    "sort_order": 3.0,
+    "novel_id": 23,
+    "created_at": "2025-03-30 14:25:58",
+    "updated_at": "2025-03-30 14:25:58",
+    "deleted_at": null
+  },
+  {
+    "id": 114,
+    "name": "Chương4: Giết",
+    "sort_order": 4.0,
+    "novel_id": 23,
+    "created_at": "2025-03-30 14:25:58",
+    "updated_at": "2025-03-30 14:25:58",
+    "deleted_at": null
+  },
+  {
+    "id": 115,
+    "name": "Chương5: Hầu gia",
+    "sort_order": 5.0,
+    "novel_id": 23,
+    "created_at": "2025-03-30 14:25:58",
+    "updated_at": "2025-03-30 14:25:58",
+    "deleted_at": null
+  },
+  {
+    "id": 116,
+    "name": "Chương1: Nữ hồ Ly",
+    "sort_order": 1.0,
+    "novel_id": 24,
+    "created_at": "2025-03-30 14:26:00",
+    "updated_at": "2025-03-30 14:26:00",
+    "deleted_at": null
+  },
+  {
+    "id": 117,
+    "name": "Chương2: Thạch Đầu ca ca",
+    "sort_order": 2.0,
+    "novel_id": 24,
+    "created_at": "2025-03-30 14:26:00",
+    "updated_at": "2025-03-30 14:26:00",
+    "deleted_at": null
+  },
+  {
+    "id": 118,
+    "name": "Chương3: Đi xa",
+    "sort_order": 3.0,
+    "novel_id": 24,
+    "created_at": "2025-03-30 14:26:00",
+    "updated_at": "2025-03-30 14:26:00",
+    "deleted_at": null
+  },
+  {
+    "id": 119,
+    "name": "Chương4: Gắn bó",
+    "sort_order": 4.0,
+    "novel_id": 24,
+    "created_at": "2025-03-30 14:26:00",
+    "updated_at": "2025-03-30 14:26:00",
+    "deleted_at": null
+  },
+  {
+    "id": 120,
+    "name": "Chương5: Mã thú",
+    "sort_order": 5.0,
+    "novel_id": 24,
+    "created_at": "2025-03-30 14:26:00",
+    "updated_at": "2025-03-30 14:26:00",
+    "deleted_at": null
+  },
+  {
+    "id": 121,
+    "name": "Chương1: “Cậu nhỏ” có bị tê liệt không?",
+    "sort_order": 1.0,
+    "novel_id": 25,
+    "created_at": "2025-03-30 14:26:01",
+    "updated_at": "2025-03-30 14:26:01",
+    "deleted_at": null
+  },
+  {
+    "id": 122,
+    "name": "Chương2: Nhà họ Ninh từ hôn",
+    "sort_order": 2.0,
+    "novel_id": 25,
+    "created_at": "2025-03-30 14:26:01",
+    "updated_at": "2025-03-30 14:26:01",
+    "deleted_at": null
+  },
+  {
+    "id": 123,
+    "name": "Chương3: Tên thần kinh bán bùa",
+    "sort_order": 3.0,
+    "novel_id": 25,
+    "created_at": "2025-03-30 14:26:01",
+    "updated_at": "2025-03-30 14:26:01",
+    "deleted_at": null
+  },
+  {
+    "id": 124,
+    "name": "Chương4: Khách hàng đầu tiên",
+    "sort_order": 4.0,
+    "novel_id": 25,
+    "created_at": "2025-03-30 14:26:01",
+    "updated_at": "2025-03-30 14:26:01",
+    "deleted_at": null
+  },
+  {
+    "id": 125,
+    "name": "Chương5: Thuê phòng trọ",
+    "sort_order": 5.0,
+    "novel_id": 25,
+    "created_at": "2025-03-30 14:26:01",
+    "updated_at": "2025-03-30 14:26:01",
+    "deleted_at": null
+  },
+  {
+    "id": 126,
+    "name": "Chương1: Bắc Linh viện",
+    "sort_order": 1.0,
+    "novel_id": 26,
+    "created_at": "2025-03-30 14:26:03",
+    "updated_at": "2025-03-30 14:26:03",
+    "deleted_at": null
+  },
+  {
+    "id": 127,
+    "name": "Chương2: Thiếu niên bị đuổi khỏi Linh lộ",
+    "sort_order": 2.0,
+    "novel_id": 26,
+    "created_at": "2025-03-30 14:26:03",
+    "updated_at": "2025-03-30 14:26:03",
+    "deleted_at": null
+  },
+  {
+    "id": 128,
+    "name": "Chương3: Mục vực",
+    "sort_order": 3.0,
+    "novel_id": 26,
+    "created_at": "2025-03-30 14:26:03",
+    "updated_at": "2025-03-30 14:26:03",
+    "deleted_at": null
+  },
+  {
+    "id": 129,
+    "name": "Chương4: Đại Phù Đồ Quyết",
+    "sort_order": 4.0,
+    "novel_id": 26,
+    "created_at": "2025-03-30 14:26:03",
+    "updated_at": "2025-03-30 14:26:03",
+    "deleted_at": null
+  },
+  {
+    "id": 130,
+    "name": "Chương5: Đại thiên thế giới",
+    "sort_order": 5.0,
+    "novel_id": 26,
+    "created_at": "2025-03-30 14:26:03",
+    "updated_at": "2025-03-30 14:26:03",
+    "deleted_at": null
+  },
+  {
+    "id": 131,
+    "name": "Chương1: Phụ Tử Phế Vật",
+    "sort_order": 1.0,
+    "novel_id": 27,
+    "created_at": "2025-03-30 14:26:05",
+    "updated_at": "2025-03-30 14:26:05",
+    "deleted_at": null
+  },
+  {
+    "id": 132,
+    "name": "Chương2: Trùng Mạch (1)",
+    "sort_order": 2.0,
+    "novel_id": 27,
+    "created_at": "2025-03-30 14:26:05",
+    "updated_at": "2025-03-30 14:26:05",
+    "deleted_at": null
+  },
+  {
+    "id": 133,
+    "name": "Chương3: Trùng Mạch (2)",
+    "sort_order": 3.0,
+    "novel_id": 27,
+    "created_at": "2025-03-30 14:26:05",
+    "updated_at": "2025-03-30 14:26:05",
+    "deleted_at": null
+  },
+  {
+    "id": 134,
+    "name": "Chương4: Trùng Mạch (3)",
+    "sort_order": 4.0,
+    "novel_id": 27,
+    "created_at": "2025-03-30 14:26:05",
+    "updated_at": "2025-03-30 14:26:05",
+    "deleted_at": null
+  },
+  {
+    "id": 135,
+    "name": "Chương5: Dạy Dỗ Nô Tài",
+    "sort_order": 5.0,
+    "novel_id": 27,
+    "created_at": "2025-03-30 14:26:05",
+    "updated_at": "2025-03-30 14:26:05",
+    "deleted_at": null
+  }
+]

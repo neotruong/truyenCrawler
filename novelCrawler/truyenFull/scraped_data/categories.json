@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Tiên Hiệp",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "name": "Huyền Huyễn",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "name": "Dị Giới",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "name": "Kiếm Hiệp",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "name": "Ngôn Tình",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "name": "Ngược",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 7,
+    "name": "Sủng",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 8,
+    "name": "Trọng Sinh",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:27",
+    "updated_at": "2025-03-30 14:25:27",
+    "deleted_at": null
+  },
+  {
+    "id": 9,
+    "name": "Xuyên Không",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:28",
+    "updated_at": "2025-03-30 14:25:28",
+    "deleted_at": null
+  },
+  {
+    "id": 10,
+    "name": "Đô Thị",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:42",
+    "updated_at": "2025-03-30 14:25:42",
+    "deleted_at": null
+  },
+  {
+    "id": 11,
+    "name": "Linh Dị",
+    "icon": "",
+    "is_active": true,
+    "created_at": "2025-03-30 14:25:43",
+    "updated_at": "2025-03-30 14:25:43",
+    "deleted_at": null
+  }
+]
